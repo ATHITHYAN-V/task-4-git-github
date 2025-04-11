@@ -1,0 +1,19 @@
+# DevOps Project
+
+## Overview
+This is a sample DevOps project managed using Git best practices.
+
+## Branching Strategy
+- `main`: Production-ready code
+- `dev`: Integration branch
+- `feature/*`: Feature-specific development
+
+## Technologies
+- Git
+- GitHub
+
+## Usage
+Instructions on how to use/run the project.
+
+## Author
+[ATHITHYAN-V](https://github.com/ATHITHYAN-V/task-4-git-github.git)
