@@ -14,12 +14,12 @@ This is a sample DevOps project managed using Git best practices.
 
 ## step-1
 
-git init                          # Initialize local git repo
-git add README.md                # Stage the README.md file
-git commit -m "first commit"    # First commit
-git branch -M main              # Rename current branch to 'main'
-git remote add origin https://github.com/ATHITHYAN-V/task-4-git-github.git  # Add GitHub repo as remote
-git push -u origin main         # Push to GitHub and set upstream
+-git init                          # Initialize local git repo
+-git add README.md                # Stage the README.md file
+-git commit -m "first commit"    # First commit
+-git branch -M main              # Rename current branch to 'main'
+-git remote add origin https://github.com/ATHITHYAN-V/task-4-git-github.git  # Add GitHub repo as remote
+-git push -u origin main         # Push to GitHub and set upstream
 
 
 ![dir](https://github.com/user-attachments/assets/0d309815-2db8-4bca-90dc-6ae814fe48bb)
@@ -29,25 +29,25 @@ git push -u origin main         # Push to GitHub and set upstream
 
 ## step-2
 
-git checkout -b dev
-git push -u origin dev
+#git checkout -b dev
+#git push -u origin dev
 
 ![dev](https://github.com/user-attachments/assets/34fb1133-64e0-480a-a009-2096481ad703)
 
 ## step-3
 
-git checkout -b feature/task-4
-git push -u origin feature/task-4
+#git checkout -b feature/task-4
+#git push -u origin feature/task-4
 
 ![Screenshot 2025-04-11 204130](https://github.com/user-attachments/assets/e76721d7-e256-4185-988d-1ea3cf55e2b2)
 
 ## step-4
 
-merging Dev from featureltask-4
+#merging Dev from featureltask-4
 
 ![Screenshot 2025-04-12 091648](https://github.com/user-attachments/assets/20e1e0e9-0270-41e8-8dea-814e28c0ec58)
 
-## step-5
+## Step-5
 
 merging main from Dev
 
@@ -55,10 +55,13 @@ merging main from Dev
 
 ## step-6
 Tag Releases
-git tag -a v1.0 -m "Initial release"
-git push origin v1.0
+#git tag -a v1.0 -m "Initial release"
+#git push origin v1.0
 
 ![tag](https://github.com/user-attachments/assets/cd9d524e-5b25-4e61-b1a4-2d6cc2c28f71)
+
+![image](https://github.com/user-attachments/assets/ad989aad-a716-42a9-a822-5aa581ecbaf9)
+
 
 
 
