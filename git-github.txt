@@ -1,16 +1,28 @@
-# DevOps Project Task-4
+TASK 4: Build a Version-Controlled DevOps Project with Git
 
-## Overview
-This is a sample DevOps project managed using Git best practices.
+ Objective: Manage a DevOps project using Git best practices.
 
-## Branching Strategy
-- `main`: Production-ready code
-- `dev`: Integration branch
-- `feature/*`: Feature-specific development
+ Tools: Git, GitHub
 
-## Technologies
-- Git
-- GitHub
+ Deliverables: Project repo with proper commits, branching
 
-## Author
-[ATHITHYAN-V](https://github.com/ATHITHYAN-V/task-4-git-github.git)
+ Hints:
+ Initialize repo and push to GitHub. 
+ Create dev, feature, and main branches. 
+ Use pull requests to merge. 
+ Add a proper README.md. 
+ Use .gitignore and tags. 
+ Document all tasks using markdown. 
+
+
+ Outcome: You’ll learn version control workflows.
+
+ Interview Questions:
+ What is Git? 
+ What is the difference between merge and rebase? 
+ What is a pull request? 
+ How do you resolve merge conflicts? 
+ What are Git tags? 
+ What is Git workflow? 
+ Explain git stash. 
+ What is the use of .gitignore?
