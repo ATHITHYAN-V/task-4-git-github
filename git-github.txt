@@ -1,4 +1,4 @@
-# DevOps Project
+# DevOps Project Task-4
 
 ## Overview
 This is a sample DevOps project managed using Git best practices.
@@ -11,9 +11,6 @@ This is a sample DevOps project managed using Git best practices.
 ## Technologies
 - Git
 - GitHub
-
-## Usage
-Instructions on how to use/run the project.
 
 ## Author
 [ATHITHYAN-V](https://github.com/ATHITHYAN-V/task-4-git-github.git)
