@@ -16,7 +16,7 @@ This is a sample DevOps project managed using Git best practices.
 
 - git init                          # Initialize local git repo
 - git add README.md                # Stage the README.md file
-- git commit -m "first commit"    # First commit
+- git commit -m "Git-Github-Task-4"    # First commit
 - git branch -M main              # Rename current branch to 'main'
 - git remote add origin https://github.com/ATHITHYAN-V/task-4-git-github.git  # Add GitHub repo as remote
 - git push -u origin main         # Push to GitHub and set upstream
@@ -43,18 +43,18 @@ This is a sample DevOps project managed using Git best practices.
 
 ## Step-4
 
-merging Dev from featureltask-4
+## merging Dev from featureltask-4
 
 ![Screenshot 2025-04-12 091648](https://github.com/user-attachments/assets/20e1e0e9-0270-41e8-8dea-814e28c0ec58)
 
 ## Step-5
 
-merging main from Dev
+## merging main from Dev
 
 ![Screenshot 2025-04-12 092157](https://github.com/user-attachments/assets/9ceacdd6-1bbf-4693-a35c-3a993a5f451c)
 
 ## Step-6
-Tag Releases
+## Tag Releases
 - git tag -a v1.0 -m "Initial release"
 - git push origin v1.0
 
